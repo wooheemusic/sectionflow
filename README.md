@@ -2,7 +2,11 @@
 This is a single page web application framework. It follows the tranditional web interface. Each page can be accessed and bookmarked by URI.
 
 ## A temporary example
-http://121.173.96.26:8000/ (built with SectionFlow)
+http://121.173.96.26:8000/ 
+>This temporary site is
+>* to introduce myself, 
+>* containing its specification and simple boards and an editor,
+>* and built with SectionFlow, Spring MVC, Hibernate and an Oracle server.
 
 ## Documentation
 http://121.173.96.26:8000/boards/sectionflow
