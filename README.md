@@ -2,14 +2,14 @@
 This is a single page web application framework. It follows the tranditional web interface. Each page can be accessed and bookmarked by URI.
 
 ## A temporary example
-http://121.143.158.194:8000/ 
+http://121.143.87.31:8000/ 
 >This temporary site is
 >* to introduce myself, 
 >* containing its specification and simple boards and an editor,
 >* and built with SectionFlow, Spring MVC, Hibernate and an Oracle server.
 
 ## Documentation
-http://121.143.158.194:8000/boards/sectionflow
+http://121.143.87.31:8000/boards/sectionflow
 
 ## License
 Copyright (c) 2016-2017 Woo Hee, Chung. (wooheemusic@gmail.com)
