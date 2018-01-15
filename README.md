@@ -2,7 +2,7 @@
 This is a single page web application framework. It follows the tranditional web interface. Each page can be accessed and bookmarked by URI.
 
 ## A temporary example
-http://121.143.87.31:8000/ 
+http://220.85.205.123:8000/ 
 >This temporary site is
 >* to introduce myself, 
 >* containing its specification and simple boards and an editor,
