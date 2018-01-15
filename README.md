@@ -9,7 +9,7 @@ http://220.85.205.123:8000/
 >* and built with SectionFlow, Spring MVC, Hibernate and an Oracle server.
 
 ## Documentation
-http://121.143.87.31:8000/boards/sectionflow
+http://220.85.205.123:8000/boards/sectionflow
 
 ## License
 Copyright (c) 2016-2017 Woo Hee, Chung. (wooheemusic@gmail.com)
